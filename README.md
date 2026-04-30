@@ -32,10 +32,11 @@
 </div>
 
 <div align="center">
-  <div style="border: 1px solid #30363d; border-radius: 6px; background: #0d1117; padding: 15px; max-width: 1020px;">
-    <img src="https://raw.githubusercontent.com/brolezebroleze/brolezebroleze/output/snake.svg" alt="Snake animation" style="width: 100%; aspect-ratio: auto;" />
+  <div style="border: 1px solid #30363d; border-radius: 6px; background: #0d1117; padding: 0px; max-width: 1020px; width: 100%; overflow: hidden; height: 180px; display: flex; align-items: center; justify-content: center;">
+    <img src="https://raw.githubusercontent.com/brolezebroleze/brolezebroleze/output/snake.svg" alt="Snake animation" style="width: 120%; transform: scale(1.6); transform-origin: center; image-rendering: pixelated;" />
   </div>
 </div>
+
 
 
 
