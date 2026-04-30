@@ -16,26 +16,28 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
+  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
+  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img width="14" />
+  <img src="https://img.icons8.com/color/600/c-programming.png" height="30" alt="c logo"  />
+  <img width="14" />
+  <img src="https://i.ibb.co/XkYtGN5X/image-removebg-preview-18.png" height="30" alt="css logo"  />
 </div>
 
 ###
 
-<br clear="both">
 
+</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/brolezebroleze/brolezebroleze/output/snake.svg" alt="Snake animation" width="100%" />
+  <div style="border: 1px solid #30363d; border-radius: 6px; background: #0d1117; padding: 15px; max-width: 1020px;">
+    <img src="https://raw.githubusercontent.com/brolezebroleze/brolezebroleze/output/snake.svg" alt="Snake animation" style="width: 100%; aspect-ratio: auto;" />
+  </div>
 </div>
+
+
 
 ###
 
