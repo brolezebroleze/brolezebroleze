@@ -21,8 +21,7 @@ jobs:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dracula
+outputs: dist/snake.svg?palette=github-light&color_snake=orange&color_dots=#ebedf0,#f6e05e,#ecc94b,#d69e2e,#b7791f
 
 
       - name: push snake.svg to the output branch
