@@ -3,6 +3,7 @@
 ###
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/08/f4/4e/08f44ee35174c455eec7caacf5bbcfb1.gif"  />
+<br>
 
 ###
 
@@ -15,27 +16,21 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="50" alt="raspberrypi logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="14" />
-  <img src="https://img.icons8.com/color/600/c-programming.png" height="30" alt="c logo"  />
+  <img src="https://img.icons8.com/color/600/c-programming.png" height="50" alt="c logo"  />
   <img width="14" />
-  <img src="https://i.ibb.co/XkYtGN5X/image-removebg-preview-18.png" height="30" alt="css logo"  />
+  <img src="https://i.ibb.co/XkYtGN5X/image-removebg-preview-18.png" height="50" alt="css logo"  />
 </div>
 
 ###
-
-
-<div align="center">
-  <div style="border: 1px solid #30363d; border-radius: 6px; background: #0d1117; padding: 20px; max-width: 1020px;">
-    <img src="https://raw.githubusercontent.com/brolezebroleze/brolezebroleze/refs/heads/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
-  </div>
 </div>
 
-
+###
 
 ###
 
@@ -49,10 +44,13 @@
   <img src="https://streak-stats.demolab.com?user=brolezebroleze&locale=en&mode=daily&card_width=1020&theme=dark&hide_border=false&border_radius=5&order=4" height="250" alt="streak graph"  />
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brolezebroleze&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ###
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=broleze&locale=en&hide_title=false&layout=compact&card_width=1020&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brolezebroleze&locale=en&hide_title=false&layout=compact&card_width=1020&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 
