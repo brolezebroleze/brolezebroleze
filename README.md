@@ -46,7 +46,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brolezebroleze&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+![Anurag's GitHub stats](https://brolezebroleze.vercel.app/api?username=brolezebroleze&show_icons=true&theme=radical)
 ###
 <div align="center">
   <img src="https://brolezebroleze.vercel.app/api/top-langs?username=brolezebroleze&locale=en&hide_title=false&layout=compact&card_width=1020&langs_count=5&theme=dark&hide_border=false&v=1" height="150" alt="languages graph" />
