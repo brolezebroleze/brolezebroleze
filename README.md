@@ -46,13 +46,10 @@
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brolezebroleze&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-###
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brolezebroleze&locale=pt-BR&hide_title=false&layout=compact&card_width=1020&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://shion.dev" height="150" alt="languages graph"  />
 </div>
-
 
 
 ###
