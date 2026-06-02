@@ -49,7 +49,7 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brolezebroleze&locale=en&hide_title=false&layout=compact&card_width=1020&langs_count=5&theme=dark&hide_border=false&v=1" height="150" alt="languages graph" />
+  <img src="https://brolezebroleze.vercel.app/api/top-langs?username=brolezebroleze&locale=en&hide_title=false&layout=compact&card_width=1020&langs_count=5&theme=dark&hide_border=false&v=1" height="150" alt="languages graph" />
 </div>
 
 
