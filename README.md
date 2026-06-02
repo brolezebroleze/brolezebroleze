@@ -50,9 +50,6 @@
   <img src="https://shion.dev" height="150" alt="languages graph" />
 </div>
 
-</div>
-
-
 ###
 
 <picture>
