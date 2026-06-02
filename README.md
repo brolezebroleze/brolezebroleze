@@ -44,11 +44,19 @@
   <img src="https://streak-stats.demolab.com?user=brolezebroleze&locale=en&mode=daily&card_width=1020&theme=dark&hide_border=false&border_radius=5&order=4" height="250" alt="streak graph"  />
 </div>
  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brolezebroleze&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brolezebroleze)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-  <img src="https://vercel.app" height="150" alt="languages graph" />
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=brolezebroleze&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=brolezebroleze&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=brolezebroleze&show_icons=true" />
+</picture>
 
 
 ###
