@@ -40,8 +40,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=brolezebroleze&locale=en&mode=daily&card_width=1020&theme=dark&hide_border=false&border_radius=5&order=4" height="250" alt="streak graph"  />
+<div align="center>
+<a href="https://git.io/streak-stats">
+  <img src="./profile/streak.svg" height="250" alt="GitHub Streak" />
+</a>
 </div>
 
 ![github activity graph](https://github-readme-activity-graph-topaz-psi.vercel.app/graph?username=brolezebroleze&theme=github-compact)
