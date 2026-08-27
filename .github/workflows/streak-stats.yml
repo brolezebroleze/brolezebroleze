@@ -1,11 +1,11 @@
 name: Update streak stats
 on:
   schedule:
-    - cron: "0 3 * * *" # Roda automaticamente todo dia às 03:00 UTC
+    - cron: "0 3 * * *" # Executa diariamente às 03:00 UTC
   push:
     paths:
-      - ".github/workflows/streak-stats.yml" # Roda quando você alterar este arquivo
-  workflow_dispatch: # Permite rodar manualmente na aba Actions
+      - ".github/workflows/streak-stats.yml"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -19,7 +19,7 @@ jobs:
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=${{ github.repository_owner }}&theme=default&disable_animations=true
+          options: user=${{ github.repository_owner }}&locale=en&mode=daily&card_width=1020&theme=dark&hide_border=false&border_radius=5&order=4
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
