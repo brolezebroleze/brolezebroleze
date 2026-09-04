@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <img height="auto" width="1020" src="banner.jpg" alt="Banner super legal pro max" />
+  <img height="auto" width="1010" src="banner.jpg" alt="Banner super legal pro max" />
 </p>
 
 <p align="center">
