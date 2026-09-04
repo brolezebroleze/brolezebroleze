@@ -22,6 +22,12 @@
   <img src="https://img.icons8.com/color/600/c-programming.png" height="50" alt="c logo"  />
   <img width="14" />
   <img src="https://i.ibb.co/XkYtGN5X/image-removebg-preview-18.png" height="50" alt="css logo"  />
+  <img width="14" />
+  <img src="html.png" height="50" alt="html logo"  />
+  <img width="14" />
+  <img src="js.png" height="50" alt="js logo"  />
+  <!--<img width="14" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968254.png" height="50" alt="mysql logo"  /> -->
 </div>
 
 ###
