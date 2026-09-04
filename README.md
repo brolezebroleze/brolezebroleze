@@ -44,8 +44,9 @@
 </div>
 
 ![github activity graph](https://github-readme-activity-graph-topaz-psi.vercel.app/graph?username=brolezebroleze&theme=github-compact)
-###
-
+<div align="center">
+  <img src="https://most-used-lang-nine.vercel.app/api/top-langs?username=brolezebroleze&locale=en&hide_title=false&layout=compact&card_width=1020&langs_count=5&theme=dark&hide_border=false&order=2&hide=php" height="170" alt="languages graph" />
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brolezebroleze/brolezebroleze/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brolezebroleze/brolezebroleze/output/pacman-contribution-graph.svg">
