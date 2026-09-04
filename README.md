@@ -6,10 +6,10 @@
 <br>
 
 <div align="left">
-  <a href="https://discord.com/users/983432765422833686" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a>
   <a href="https://www.instagram.com/brolezepietro/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
-  <a href="mailto:pietro.broleze@portalsesisp.org.br" target="_blank"><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo" /></a>
   <a href="https://www.linkedin.com/in/pietro-broleze-58a086433/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin legal massa w" /></a>
+  <a href="https://discord.com/users/983432765422833686" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a> 
+  <a href="mailto:pietro.broleze@portalsesisp.org.br" target="_blank"><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo" /></a>
 </div>
 <br>
 <br>
