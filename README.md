@@ -9,6 +9,7 @@
   <a href="https://discord.com/users/983432765422833686" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a>
   <a href="https://www.instagram.com/brolezepietro/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
   <a href="mailto:pietro.broleze@portalsesisp.org.br" target="_blank"><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo" /></a>
+  <a href="https://www.linkedin.com/in/pietro-broleze-58a086433/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin legal massa w" /></a>
 </div>
 <br>
 <br>
@@ -19,13 +20,13 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="14" />
+  <img src="js.png" height="50" alt="js logo"  />
+  <img width="14" />
   <img src="https://img.icons8.com/color/600/c-programming.png" height="50" alt="c logo"  />
   <img width="14" />
   <img src="https://i.ibb.co/XkYtGN5X/image-removebg-preview-18.png" height="50" alt="css logo"  />
   <img width="14" />
-  <img src="html.png" height="50" alt="html logo"  />
-  <img width="14" />
-  <img src="js.png" height="50" alt="js logo"  />
+  <img src="html.png" height="55" alt="html logo"  />
   <!--<img width="14" />
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968254.png" height="50" alt="mysql logo"  /> -->
 </div>
