@@ -46,7 +46,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="./profile/streak.svg?v=2" height="250" alt="GitHub Streak" />
+    <img src="./profile/streak.svg?v=1" height="250" alt="GitHub Streak" />
   </a>
 </div>
 
