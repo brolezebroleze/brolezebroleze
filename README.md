@@ -50,10 +50,18 @@
 </a>
 </div>
 
-![github activity graph](https://github-readme-activity-graph-topaz-psi.vercel.app/graph?username=brolezebroleze&theme=github-compact)
-<div align="center">
-  <img src="https://most-used-lang-nine.vercel.app/api/top-langs?username=brolezebroleze&locale=en&hide_title=false&layout=compact&card_width=1020&langs_count=5&theme=dark&hide_border=false&order=2&exclude_repo=Most-Used-Lang,github-readme-activity-graph,github-readme-streak-stats" height="150" alt="languages graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph-topaz-psi.vercel.app/graph?username=brolezebroleze&theme=github-compact" alt="github activity graph" />
+</p>
+
+<p align="center">
+  <img height="auto" width="1020" src="banner.jpg" alt="Banner super legal pro max" />
+</p>
+
+<p align="center">
+  <img src="https://most-used-lang-nine.vercel.app/api/top-langs?username=brolezebroleze&locale=en&hide_title=false&layout=compact&card_width=1020&langs_count=5&theme=github_dark&hide_border=false&border_color=444c56&border_radius=0&order=2&exclude_repo=Most-Used-Lang,github-readme-activity-graph,github-readme-streak-stats" height="150" alt="lang graph" />
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brolezebroleze/brolezebroleze/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brolezebroleze/brolezebroleze/output/pacman-contribution-graph.svg">
